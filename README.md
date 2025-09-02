@@ -4,7 +4,7 @@
 ---
 
 ### 🎓 About Me
-- 🧑‍🎓 Currently a **3rd Year BS Computer Science** student at **Batangas State University Alangilan Campus**  
+- 🧑‍🎓 Currently a **4th Year BS Computer Science** student at **Batangas State University Alangilan Campus**  
 - 💡 I have knowledge in **frontend development** and **UI/UX design**, and I’m eager to learn more
 - 📱 I enjoy creating and exploring more about **web and mobile app development**
 ---
@@ -29,7 +29,8 @@
 
 ### 🌱 Interests
 - 🌐 Web and Mobile Development  
-- 🧠 Artificial Intelligence & Machine Learning  
+- 🧠 Artificial Intelligence & Machine Learning
+- 💡 Research
 - 📊 Data Management & Analytics  
 - 🎨 Web and UI/UX Design
 

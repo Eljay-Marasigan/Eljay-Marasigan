@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Eljay 👋</h1>
-<h3 align="center">3rd Year BS Computer Science Student at Batangas State University – Alangilan Campus</h3>
+<h3 align="center">4th Year BS Computer Science Student at Batangas State University – Alangilan Campus</h3>
 
 ---
 

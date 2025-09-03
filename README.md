@@ -43,6 +43,7 @@
 | 🚀 **TulongTuro** | A student-powered learning platform that empowers learners to create, share, and collaborate on lessons. | [View on GitHub](https://github.com/e4677/TulongTuro) |
 | 🧭 **RAPID** | A disaster response system that helps with planning and resource allocation during emergencies. | [View on GitHub](https://github.com/mimikyow/RAPID) |
 | 📱 **RAPID Mobile Application** | Companion mobile app for RAPID, offering on-the-go accessibility and real-time updates for disaster management. | [View on GitHub](https://github.com/Eljay-Marasigan/RAPID-MOBILE-APPLICATION) |
+| 🛍️ **HIREKO** | A service application connecting freelancers and businesses with eco-friendly projects, promoting sustainability through freelance work. | [View on GitHub](https://github.com/par-paulreyes/Hireko) |
 
 ---
 
